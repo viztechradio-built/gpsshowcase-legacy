@@ -1,4 +1,10 @@
-# GPS-Showcase 🌐📍
+# GPS-Showcase 🌐📍 # ⚠️ Legacy Prototype
+
+This repository contains an early experimental version of the GPS-Showcase UI.
+
+➡️ The active development version has moved to a new repository.
+
+This version is no longer maintained.
 
 > A Smart City Ecosystem platform that bridges the gap between tourists and their experiences by providing personalized restaurant and establishment discovery through an innovative GPS-powered interface.
 
